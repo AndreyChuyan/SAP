@@ -21,7 +21,7 @@ SAP Knowledge Base — это централизованное хранилищ�
 ### Клонирование репозитория
 
 ```bash
-git clone <URL репозитория>
+git clone https://github.com/AndreyChuyan/SAP.git
 cd SAP
 ```
 
@@ -267,4 +267,4 @@ cp knowledge-base/templates/change-template.md knowledge-base/changes/changes/[�
 
 **Последнее обновление:** 2025-12-05 (актуализация данных)
 
-**Автор документации:** SAP Knowledge Base Team
+**Автор документации:** Андрей Чуян - https://chuyana.ru/
